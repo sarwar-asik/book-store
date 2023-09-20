@@ -1,6 +1,5 @@
-# tech-net
 
-# book-store
+# book-store (ass-5)
 
 # Vite , React + Typescript + redux with login and signUP >>>
 

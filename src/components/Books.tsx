@@ -31,6 +31,7 @@ const Books = () => {
     console.log("🚀 ~ file: Books.tsx:16 ~ Books ~ data:", data)
     
     const books:IBook[] = data?.data
+    // console.log(booksboo);
   
     // console.log(blogs, "from Blogs.js");
     // console.log(books,"form BBBBBBB");
